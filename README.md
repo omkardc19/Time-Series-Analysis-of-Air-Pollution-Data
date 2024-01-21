@@ -14,3 +14,4 @@ The project is divided into following parts:
 3. Finding Combined Weighted Combination of air polluting factors  
 4. Finding blasting time and relevant analysis  
 5. Curve Fitting  
+6. Trends and Seasonality  
