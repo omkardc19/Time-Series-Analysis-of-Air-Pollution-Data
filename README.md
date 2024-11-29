@@ -11,7 +11,7 @@ The project is divided into following parts:
 
 1. Data Exploratory Analysis(Exploring the data)  
 2. Forecasting (Prediction of data from historical data using methods like ARIMA)  
-3. Finding Combined Weighted Combination of air polluting factors  
+3. AQI Calculation and Prediction (Comparison Between ARIMA, Random Forest, GRU, LSTM )
 4. Finding blasting time and relevant analysis  
 5. Curve Fitting  
-6. Trends and Seasonality  
+6. Trends, Seasonality, Descriptive, Explanatory Analysis
